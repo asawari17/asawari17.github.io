@@ -11,7 +11,7 @@ Plumbing may sound like just a normal thing today, but back in the bronze ages (
 **4000 - 3000 BCE:** The Harrapan civilization along the Indus and Ghaggar valley is referred by many historians as the birth place of pipes and the sewer system. The most prominent place excavations of these systems have been in 'Lothal' — a Harrapan city — in modern day Gujarat, India. Babylonians — modern day Iraq — are the close competitors to Harrapans in case of piping. Terra cotta pipes and wooden mandrels along with T-joints have been excavated from the Tigris-Euphrates valley. Harrapan sewer system was built of cut-out stone and man-made masonry units. Along with this notable observations from the excavation of Harrapan cities were the presence of private bathrooms with slanting tiles to guide sewage with gravity to cesspools. We can call these gravity flushed toilets. The cover image shows the city of Lothal. [[2](https://en.wikipedia.org/wiki/Lothal "Wiki")]
 
 ![Joints excavated in Babylonia [[1](http://www.sewerhistory.org/time-lines/tracking-down-the-roots-of-our-sanitary-sewers/part-1-the-early-roots-3200-bce-to-300-ce/)]](https://raw.githubusercontent.com/pran-av/pran-av.github.io/master/images/Babylonia_Pipes.gif)
-######Joints excavated in Babylonia
+Joints excavated in Babylonia
 
 **2500 BCE**: Copper drainage system found in the Nile valley of the Egyptians. The Egyptians believed god and humans lived with the same luxuries hence explaining the use of Copper. [[3](https://www.plumbingsupply.com/pmegypt.html)]
 
@@ -29,8 +29,8 @@ Plumbing may sound like just a normal thing today, but back in the bronze ages (
 
 **1767**: The first mechanical shower was patented by William Feetham, a manufacturer of stoves and heaters. The system used to collect water in an overhead tank and used to pour it down when a chain was pulled. [[9](https://www.amusingplanet.com/2019/01/a-short-history-of-showering.html)]
 
-![William Feetham's mechanical shower](https://raw.githubusercontent.com/pran-av/pran-av.github.io/master/images/Feethams_shower.jpg)
-######William Feetham's mechanical shower
+![William Feetham's mechanical shower]({{site.baseurl}}/images/Feethams_shower.jpg)
+William Feetham's mechanical shower
 
 **1775**: Alexander Cumming developed John Harington's design to include the 'S trap' which creates a water seal and hence avoids gases from the pipes to enter into the toilet. This was the first modern toilet system. [[10](https://www.history.com/news/who-invented-the-flush-toilet)]
 

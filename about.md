@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+An engineer and a sales guy. I am on a journey of building products and documenting my learnings along the way.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Subscribe to [my weekly Learning's Journal](https://www.getrevue.co/profile/pranav) and be part of the story.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Connect on Twitter](https://twitter.com/pranavdotexe)
+[Email me](mailto:pranavdotexe@gmail.com)
