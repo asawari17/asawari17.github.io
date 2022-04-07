@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
+permalink: /
 ---
 
 An engineer and a sales guy. I am on a journey of building products and documenting my learnings along the way.
