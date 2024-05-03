@@ -4,11 +4,8 @@ title: About
 permalink: /
 ---
 
-An engineer and a sales guy. I am on a journey of building products and documenting my learnings along the way.
-
-Subscribe to [my weekly Learning's Journal](https://www.getrevue.co/profile/pranav) and be part of the story.
+Third year graduate student at UNC
 
 ### Contact me
 
-[Connect on Twitter](https://twitter.com/pranavdotexe)
-[Email me](mailto:pranavdotexe@gmail.com)
+[Email me](mailto:wari1798@gmail.com)
