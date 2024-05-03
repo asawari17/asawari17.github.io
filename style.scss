@@ -1,9 +1,4 @@
----
----
-
-//
 // IMPORTS
-//
 
 @import "reset";
 @import "variables";
@@ -19,7 +14,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 Calibri;
+  font: 16px/1.4 Calibri Light;
   color: $darkGray;
 }
 
@@ -31,7 +26,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Calibri;
+  font-family: Calibri Light;
   color: $darkerGray;
   font-weight: bold;
 
@@ -165,8 +160,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 120px;
-  height: 120px;
+  width: 150px; // Increase the size of the image
+  height: 150px; // Increase the size of the image
   margin-right: 15px;
 
   @include mobile {
@@ -287,3 +282,28 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+// News styles
+.news {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.news-item {
+  display: flex;
+  align-items: flex-start;
+}
+
+.news-date {
+  flex-shrink: 0;
+  width: 100px;
+  font-weight: bold;
+}
+
+// Reset default list styles
+ul {
+  list-style-type: none;
+  padding: 0;
+}
