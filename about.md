@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-Third year graduate student at UNC
+Graduate student at UNC
 
 ### Contact me
 
